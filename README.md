@@ -16,9 +16,12 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Cook.txt 存储cookie
+Qs.txt 存储 queryString"
+Rf.txt 存储Referer,
+通过浏览器抓包将信息填入上面文件
+
+
 
 #### 参与贡献
 
