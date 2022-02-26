@@ -27,7 +27,7 @@ class Shool_Wif():
             return False
 
 if __name__ =="__main__":
-    user = "15662706297"
+    user = "1264444"
     pwd = "123321"
     S1 = Shool_Wif(user,pwd)
     S1.open_config()
