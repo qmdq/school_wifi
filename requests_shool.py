@@ -44,7 +44,7 @@ def Longin(UserId,password,cooking,Referer,qs):#USerId账号password密码#cooki
         return False
 
 if __name__=="__main__":
-    user = "15662706297"
+    user = "15488877"
     pwd = "123321"
     cook = "EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_COOKIE_USERNAME=15662706297; EPORTAL_COOKIE_PASSWORD=123321; EPORTAL_USER_GROUP=root; JSESSIONID=771ECF55FB8518D8DC9564C11C6AA98A; JSESSIONID=EE2D8BAE4FFC9B88EF9C49A99DAF27CB"
     rf = "http://192.168.255.2/eportal/index.jsp?wlanuserip=3a53a032429e05f71d211fe3b3cc705b&wlanacname=8fa0cee68308b61e850d0bdea29859fe&ssid=&nasip=a599d5b4bd54ade7415734f1c58c2da5&snmpagentip=&mac=b86fb900c5f046d147df944ec8b1f5e3&t=wireless-v2&url=ed3aaf1ff49edb56a8aa51ef436e689ac7c7c96bbdb258c0&apmac=&nasid=8fa0cee68308b61e850d0bdea29859fe&vid=38a07c734649deed&port=f6516ab02a224608&nasportid=4574fd3057584d100f5cec73992841aeaf306a9bc14aa23c77fb2334b8bdda90a33dfc6b0f6092c7"
